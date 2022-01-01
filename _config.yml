@@ -3,7 +3,5 @@ remote_theme: lewismiddleton/cayman-dark
 github:
   is_project_page: false
 
-title: [YAI]
-description: [Yet another index]
-
-theme: jekyll-theme-cayman
+title: [BananaHackers]
+description: [cleaned up bh]
