@@ -5,3 +5,5 @@ github:
 
 title: [YAI]
 description: [Yet another index]
+
+theme: jekyll-theme-cayman
